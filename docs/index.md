@@ -1,41 +1,44 @@
-Mission, Vision and Core Values	3
-Statement for Peace	4
-Honoring Diversity	4
-Climate Responsibility Resolution	5
-Additional Resource	6
-Operational and Administrative Policies	7
-    Youth and Family Ministry	7
-    Music Ministry	8
-    Building Use	9
-    Greening the Church	10
-    Alcohol Use on Church Premises	11
-    Facility Maintenance and Improvement	13
-    Classes, Seminars, Workshops and Speakers	13
-    Clubs and Other Special Interest Groups	14
-    Publications	14
-    Media	15
-    Information Access	16
-    Solicitation	16
-    Voting Membership	17
-Employment Policies	18
-    Staff Employment	18
-    Grievance Policy	20
-    Ministerial Job Descriptions	21
-Board of Trustees Policies	24
-    Nominating Ministry Team	24
-    Conduct of Elections	25
-    Communications with the Board of Trustees	26
-    Complaints and Allegations	27
-    Remote Attendance and Electronic Voting	29
-    Disruptive Behavior	31
-    Background Checks Policy	33
-(Entire Section Up for Revision) Financial Management Policies	37
-    Finance Committee	37
-    Investments	38
-    Deposits and Disbursements	38
-    Tithes	38
-    Interest Bearing Accounts	38
-    Memorial Funds	38
-    Special Purpose Funds	38
-    Minister’s Expenses	39
-    Bookstore	39
+---
+title: Table of Contents
+---
+1. Mission, Vision and Core Values	3
+1. Statement for Peace	4
+1. Honoring Diversity	4
+1. Climate Responsibility Resolution	5
+1. Additional Resource	6
+1. Operational and Administrative Policies	7
+    1.1. Youth and Family Ministry	7
+    1.1. Music Ministry	8
+    1.1. Building Use	9
+    1.1. Greening the Church	10
+    1.1. Alcohol Use on Church Premises	11
+    1.1. Facility Maintenance and Improvement	13
+    1.1. Classes, Seminars, Workshops and Speakers	13
+    1.1. Clubs and Other Special Interest Groups	14
+    1.1. Publications	14
+    1.1. Media	15
+    1.1. Information Access	16
+    1.1. Solicitation	16
+    1.1. Voting Membership	17
+1. Employment Policies	18
+    1.1. Staff Employment	18
+    1.1. Grievance Policy	20
+    1.1. Ministerial Job Descriptions	21
+1. Board of Trustees Policies	24
+    1.1. Nominating Ministry Team	24
+    1.1. Conduct of Elections	25
+    1.1. Communications with the Board of Trustees	26
+    1.1. Complaints and Allegations	27
+    1.1. Remote Attendance and Electronic Voting	29
+    1.1. Disruptive Behavior	31
+    1.1. Background Checks Policy	33
+1. (Entire Section Up for Revision) Financial Management Policies	37
+    1.1. Finance Committee	37
+    1.1. Investments	38
+    1.1. Deposits and Disbursements	38
+    1.1. Tithes	38
+    1.1. Interest Bearing Accounts	38
+    1.1. Memorial Funds	38
+    1.1. Special Purpose Funds	38
+    1.1. Minister’s Expenses	39
+    1.1. Bookstore	39
